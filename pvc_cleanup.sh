@@ -14,7 +14,6 @@ if [ -z "$pvc_name" ]; then
 fi 
 
 
-
 if [ -z "$namespace" ]; then 
     echo "namespace doesnt exist" 
     exit 
